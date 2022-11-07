@@ -1,6 +1,6 @@
 import React from "react";
-import Button from '../src/components/Button/Button';
-import TextField from '../src/components/TextField/TextField'
+import Button from './globalComponents/Button/Button';
+import TextField from './globalComponents/TextField/TextField'
 export default () => (
 <>
 <h1>Welcome to React Vite Micro App!</h1>
