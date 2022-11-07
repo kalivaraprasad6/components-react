@@ -12,6 +12,7 @@ export default () => (
 <TextField inputLabel='Enter Name'/>
 <TextField inputLabel='Enter Name'/>
 <Button title = 'Click Here' />
+<Button title = 'Submit Here' />
 
 </>
 );
